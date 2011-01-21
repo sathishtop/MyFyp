@@ -1,0 +1,3 @@
+<dt>CPU Usage: u0 s.05 cu0 cs0 - .0581% CPU load</dt>
+8
+<dt>Total accesses: 58 - Total Traffic: 234 kB</dt>
