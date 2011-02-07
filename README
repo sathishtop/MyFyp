@@ -17,4 +17,10 @@ How TO :
     * mail the copied content to my mail id 
     * let me add your ssh key in  my settings. 
     * then   create a folder MyFyp 
-    * 
+    * open Git GUI
+    * create a repository
+    * choose the created Folde MyFyp and click create
+    * click on remote -> add -> name= MyFyp , location= "git@github.com:sathishtop/MyFyp.git" -> add
+    * enter the pass phrase you provided during sshkey generation -> ok
+    *
+  
