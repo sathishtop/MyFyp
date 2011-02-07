@@ -6,3 +6,15 @@ comments
  This is a netbeans project Folder. 
 to run : open Netbeans IDE and open this repository as a project.
 */
+
+
+How TO :
+
+1) download this source Code
+    * download and install git from http://code.google.com/p/msysgit/downloads/detail?name=Git-1.7.4-preview20110204.exe&can=3&q=
+    * open git gui and 
+    * click "help -> show ssh key -> Generate key -> copy to clipboard
+    * mail the copied content to my mail id 
+    * let me add your ssh key in  my settings. 
+    * then   create a folder MyFyp 
+    * 
